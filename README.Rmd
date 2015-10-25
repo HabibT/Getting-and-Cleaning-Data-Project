@@ -1,0 +1,11 @@
+---
+title: "ReadMe"
+output: html_document
+---
+
+This repository contains the files created for the course project of Getting and Cleaning Data Project.
+
+The R code file Run_Analysis will work if the working directory contains all the data files and folders, which were 
+downloaded from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+
+The repository also contains the tidy data sets and codebook.
